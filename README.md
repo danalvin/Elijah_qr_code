@@ -1,4 +1,4 @@
-# 📱✨ Wedding QR Code Generator ✨📱
+# 📱✨ QR Code Generator ✨📱
 
 *A journey into the magical world of image manipulation and pixel wizardry!*
 
