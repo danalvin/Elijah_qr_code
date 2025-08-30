@@ -135,4 +135,4 @@ Do whatever you want with this code. If it helps you make beautiful QR codes, th
 
 *Built with curiosity, debugged with coffee, and tested with way too many cat photos.* 🐱☕
 
-**P.S.** If you're using this for your wedding, congratulations! May your Wi-Fi be strong, and your QR codes always scan on the first try. 💒📱
+**P. S.** If you're using this for your wedding, congratulations! May your Wi-Fi be strong, and your QR codes always scan on the first try. 💒📱
